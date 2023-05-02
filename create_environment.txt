@@ -1,0 +1,14 @@
+-Crear entorno virtual
+Ctrl+Shift+P "Create Environment"
+Python: Create environment
+venv
+Python 3.X
+
+----
+-Seleccionar Intérprete
+Ctrl+Shift+P "Select interpreter"
+
+----
+-Activar terminal
+Ejecutar VSCode como administrador
+Terminal: Set-ExecutionPolicy Unrestricted
